@@ -9,7 +9,7 @@ Students will use SQL to extract and transform data, gaining valuable insights i
 The goal is to improve decision-making and sustainability planning through data-driven analysis.
 
 ## ER Diagram
-<img width="1412" height="315" alt="image" src="https://github.com/user-attachments/assets/b40964d4-7444-4586-8d48-e47fc69b9882" />
+<img width="2650" height="1323" alt="image" src="https://github.com/user-attachments/assets/c4809a07-0616-43a5-95a3-dc24bbe7158d" />
 
 ## Problem Statement<img width="3359" height="878" alt="image" src="https://github.com/user-attachments/assets/8f4bb278-d9f1-46a9-931e-1af4f05627cb" />
 The energy sector generates large data on production, consumption, emissions, and resources.
